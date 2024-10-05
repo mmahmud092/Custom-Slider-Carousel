@@ -1,0 +1,46 @@
+.banner{
+	background-image: url(../images/slide1.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+
+.slider{
+	background-color: rgba(1, 1, 1, .7);
+	color: white;
+	padding: 70px;
+}
+
+.slider h1{
+	font-size: 30px;
+	margin-bottom: 30px;
+	margin-top: 30px;
+
+}
+
+.slider p{
+	font-size: 20px;
+	margin-bottom: 30px;
+
+}
+
+.slider button{
+	margin-bottom: 100px;
+
+}
+
+.coustom_ind {
+    bottom: 40px;
+}
+
+.coustom_ind [data-bs-target] {
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+}
+
+.att{
+	font-weight: 700;
+	color: yellowgreen;
+
+}
